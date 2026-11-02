@@ -9,15 +9,21 @@ A modern Tkinter GUI tool for exporting and analyzing error logs from FreeLLMAPI
 - Dark theme with modern styling
 - Cross-platform (Windows/macOS/Linux)
 
-## Screenshots
+## Support This Project
 
+<a href="https://ko-fi.com/random2488">
+  <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me A Coffee" width="180"/>
+</a>
+
+<!-- Uncomment to add a screenshot later:
 ![GUI Screenshot](https://via.placeholder.com/800x600.png?text=FreeLLMAPI+Visualizer+Dark+Theme)
+-->
 
 ## Installation
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/freeapi-visualizer.git
+git clone https://github.com/YOUR_USERNAME/freeapi-visualizer.git
 
 # Install dependencies
 pip install -r requirements.txt
