@@ -57,4 +57,4 @@ MIT License
 
 ---
 
-*Built with Python/Tkinter • Dark theme by Claude Code*
+*Built with Python/Tkinter*
